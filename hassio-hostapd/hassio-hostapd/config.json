@@ -6,6 +6,7 @@
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "url": "https://github.com/gbsoares/hassio-addons/blob/master/hassio-hostapd",
   "startup": "system",
+  "init": "false",
   "boot": "auto",
   "host_network": true,
   "apparmor": false,
